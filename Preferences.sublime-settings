@@ -1,0 +1,31 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_arrow_folders": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_titlebar": true,
+	"node_path": "$HOME/.nvm/current/bin/node",
+	"show_git_status": false,
+	"theme": "Material-Theme-Palenight.sublime-theme"
+}
